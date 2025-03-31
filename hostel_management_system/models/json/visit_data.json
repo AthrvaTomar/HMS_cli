@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "student_visiting": "abc",
+        "arrival_date": "15/08/2024",
+        "arrival_time": "10:00"
+    },
+    {
+        "id": 2,
+        "name": "Alice Wonderland",
+        "email": "alice.wonderland@example.com",
+        "student_visiting": "fds",
+        "arrival_date": "20/08/2024",
+        "arrival_time": "14:30"
+    },
+    {
+        "id": 3,
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "student_visiting": "sad",
+        "arrival_date": "25/08/2024",
+        "arrival_time": "09:15"
+    },
+    {
+        "id": 4,
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "student_visiting": "hhh",
+        "arrival_date": "01/09/2024",
+        "arrival_time": "16:45"
+    },
+    {
+        "id": 5,
+        "name": "Peter Parker",
+        "email": "peter.parker@example.com",
+        "student_visiting": "abc",
+        "arrival_date": "05/09/2024",
+        "arrival_time": "11:20"
+    },
+    {
+        "id": 6,
+        "name": "Mary Jane",
+        "email": "mary.jane@example.com",
+        "student_visiting": "fds",
+        "arrival_date": "06/09/2024",
+        "arrival_time": "11:20"
+    },
+    {
+        "id": 7,
+        "name": "Bruce Wayne",
+        "email": "bruce.wayne@example.com",
+        "student_visiting": "sad",
+        "arrival_date": "07/09/2024",
+        "arrival_time": "11:20"
+    },
+    {
+        "id": 8,
+        "name": "abc",
+        "email": "dsa@gmail.com",
+        "student_visiting": "aaa",
+        "arrival_date": "21/09/2026",
+        "arrival_time": "21:35"
+    },
+    {
+        "id": 9,
+        "name": "athrva tomar",
+        "email": "ath@gmail.com",
+        "student_visiting": "ttt",
+        "arrival_date": "25/04/2025",
+        "arrival_time": "12:30"
+    }
+]

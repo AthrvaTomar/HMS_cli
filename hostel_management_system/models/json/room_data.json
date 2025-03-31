@@ -1,0 +1,252 @@
+[
+    {
+        "room_no": 1,
+        "student_one": "aaa",
+        "student_two": "fhf"
+    },
+    {
+        "room_no": 2,
+        "student_one": "fds",
+        "student_two": "sad"
+    },
+    {
+        "room_no": 3,
+        "student_one": "xyz",
+        "student_two": "dsa"
+    },
+    {
+        "room_no": 4,
+        "student_one": "nmo",
+        "student_two": "ttt"
+    },
+    {
+        "room_no": 5,
+        "student_one": "rrr",
+        "student_two": null
+    },
+    {
+        "room_no": 6,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 7,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 8,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 9,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 10,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 11,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 12,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 13,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 14,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 15,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 16,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 17,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 18,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 19,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 20,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 21,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 22,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 23,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 24,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 25,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 26,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 27,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 28,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 29,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 30,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 31,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 32,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 33,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 34,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 35,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 36,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 37,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 38,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 39,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 40,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 41,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 42,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 43,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 44,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 45,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 46,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 47,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 48,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 49,
+        "student_one": null,
+        "student_two": null
+    },
+    {
+        "room_no": 50,
+        "student_one": null,
+        "student_two": null
+    }
+]
